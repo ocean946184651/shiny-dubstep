@@ -142,6 +142,7 @@ BOOL FindFilePath::Check_has_0(wstring path)
 //test_branches_2
 //test_amend_commit
 //test_branch
+//cout<<"greeting planets!"<<endl;
 int main()
 {
 	FindFilePath src;
