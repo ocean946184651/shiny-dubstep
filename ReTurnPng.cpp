@@ -78,6 +78,7 @@ VOID FindFilePath::FindFiles(LPCTSTR szPath, std::vector<wstring>& vecPath)
 				}
 			
 				//swprintf(FileName,MAX_PATH,L"%s\\%s",szPath,FindFileData.cFileName);
+				//cout<<"hello world"<<endl;
 				wstring filename=FindFileData.cFileName;
 				vecPath.push_back(filename);//绝对路径下的文件名
 			}
