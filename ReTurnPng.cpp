@@ -138,6 +138,7 @@ BOOL FindFilePath::Check_has_0(wstring path)
 //......
 //test..
 ////test____then
+//test_branches_2
 int main()
 {
 	FindFilePath src;
