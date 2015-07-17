@@ -136,6 +136,8 @@ BOOL FindFilePath::Check_has_0(wstring path)
 }
 //we test the git
 //......
+//test..
+////test____then
 int main()
 {
 	FindFilePath src;
