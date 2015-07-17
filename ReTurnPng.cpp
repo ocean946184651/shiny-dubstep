@@ -144,6 +144,7 @@ BOOL FindFilePath::Check_has_0(wstring path)
 //test_branch
 //cout<<"greeting planets! Hello World !"<<endl;
 //here we fix the hot bug!!
+//we fix the hot bug again!!
 int main()
 {
 	FindFilePath src;
